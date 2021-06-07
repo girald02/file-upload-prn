@@ -1,2 +1,2 @@
-# slti-file-upload-prn
+#file-upload-prn
 File Uploade extension "PRN"
