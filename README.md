@@ -1,2 +1,2 @@
 #file-upload-prn
-File Uploade extension "PRN"
+File upload extension "PRN"
